@@ -1,5 +1,12 @@
 # Digital Evidence Chain-of-Custody Manager
 
+## Author
+
+**Taushif Khan**  
+B.Tech CSE (Cyber Security and Digital Forensics)  
+VIT Bhopal University  
+Registration No.: 24BCY10331
+
 ## Overview
 
 Digital Evidence Chain-of-Custody Manager is a Java-based command-line
@@ -127,10 +134,3 @@ DigitalEvidenceManager/
 ├── statement.md
 ├── README.md
 └── .gitignore
-
-## Author
-
-**Taushif Khan**  
-B.Tech CSE (Cyber Security and Digital Forensics)  
-VIT Bhopal University  
-Registration No.: YOUR_REGISTRATION_NUMBER
