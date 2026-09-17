@@ -127,3 +127,10 @@ DigitalEvidenceManager/
 ├── statement.md
 ├── README.md
 └── .gitignore
+
+## Author
+
+**Taushif Khan**  
+B.Tech CSE (Cyber Security and Digital Forensics)  
+VIT Bhopal University  
+Registration No.: YOUR_REGISTRATION_NUMBER
